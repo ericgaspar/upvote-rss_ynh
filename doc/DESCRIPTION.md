@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+Generate rich RSS feeds for popular posts from social aggregation websites Reddit, Lemmy, Hacker News, Lobsters, PieFed, Mbin, and git forge GitHub.
